@@ -11,7 +11,7 @@
 #******************************************************************************#
 
 NAME_P = lem-in
-NAME_C = visu-hex
+NAME_C = visual-hex
 
 G = gcc
 FLAGS = -Wall -Wextra -Werror
